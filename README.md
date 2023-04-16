@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm
+
+- 👯 Looking to collaborate on Quantum Machine Learning projects
+- 😄 An incoming `Research Software Developer Intern` at `1QBit`
+- 🔭 Looking for `Winter 2024` internships in Quantum Computing
 
 <!--
 **Sehmimul/Sehmimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
