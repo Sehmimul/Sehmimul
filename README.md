@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm
 
 - 👯 Looking to collaborate on Quantum Machine Learning projects
-- 😄 An incoming `Research Software Developer Intern` at `1QBit`
+- 😄 `Research Software Developer Intern` at `1QBit`
 - 🔭 Looking for `Winter 2024` internships in Quantum Computing
 
 <!--
