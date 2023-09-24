@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm
 
-- 👯 Looking to collaborate on Quantum Machine Learning projects
+- 🌱 Looking to collaborate on Quantum Machine Learning projects
 - 😄 `Research Software Developer Intern` at `1QBit`
 - 🔭 Looking for `Winter 2024` internships in Quantum Computing
 
