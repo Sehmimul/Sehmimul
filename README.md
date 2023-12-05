@@ -1,4 +1,4 @@
-### Hi there 👋 I'm
+### Hi there 👋 I'm Sehmimul
 
 - 🌱 Looking to collaborate on Quantum Machine Learning projects
 - 😄 `Research Software Developer Intern` at `1QBit`
