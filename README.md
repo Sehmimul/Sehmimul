@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sehmimul
 
-- 🌱 Looking to collaborate on Quantum Machine Learning projects
-- 😄 `Research Software Developer Intern` at `1QBit`
-- 🔭 Looking for `Winter 2024` internships in Quantum Computing
+- 🌱 Looking to collaborate on Artificial Intelligence and Quantum Computing projects
+- 😄 Presently `Quantum Compiler Developer Intern` at [OpenQuantumDesign](https://openquantumdesign.org/)
+- 🔭 Incoming `Research Software Developer Intern` at [Irreversible](https://www.irreversible.tech/)
 
 <!--
 **Sehmimul/Sehmimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
