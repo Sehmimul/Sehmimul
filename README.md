@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Sehmimul
 
 - 🌱 Looking to collaborate on Artificial Intelligence and Quantum Computing projects
-- 😄 Presently `Quantum Compiler Developer Intern` at [OpenQuantumDesign](https://openquantumdesign.org/)
-- 🔭 Incoming `Research Software Developer Intern` at [Irreversible](https://www.irreversible.tech/)
+- 😄 Most recently `Quantum Compiler Developer Intern` at [OpenQuantumDesign](https://openquantumdesign.org/)
+- 🔭 Currently `Graduate Research Student` at [Institute for Quantum Computing
+](https://uwaterloo.ca/institute-for-quantum-computing/) working in collaboration with [irréversible inc.	
+](https://www.irreversible.tech/)
 
 <!--
 **Sehmimul/Sehmimul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
