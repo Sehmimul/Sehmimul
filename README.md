@@ -3,7 +3,7 @@
 - 🌱 Looking to collaborate on Artificial Intelligence and Quantum Computing projects
 - 😄 Most recently `Quantum Compiler Developer Intern` at [OpenQuantumDesign](https://openquantumdesign.org/)
 - 🔭 Currently `Graduate Research Student` at [Institute for Quantum Computing
-](https://uwaterloo.ca/institute-for-quantum-computing/) working in collaboration with [irréversible inc.	
+](https://uwaterloo.ca/institute-for-quantum-computing/), [Perimeter Institute](https://perimeterinstitute.ca/) working in collaboration with [irréversible inc.	
 ](https://www.irreversible.tech/)
 
 <!--
